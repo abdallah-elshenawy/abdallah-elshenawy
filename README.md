@@ -3,16 +3,20 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-I'm a passionate **Back-End Developer** specializing in building robust and scalable server-side applications. My core expertise lies in the .NET ecosystem, and I enjoy tackling complex problems with clean, efficient code.
+Motivated and detail-oriented Software Developer with strong experience in C#, ASP.NET Core (Web API & MVC), and
+SQL Server. Skilled in building scalable, maintainable backend systems using Object-Oriented Programming, SOLID
+principles, Entity Framework, and LINQ. Adept at implementing secure authentication and authorization workflows
+with JWT, and real-time communication solutions using SignalR. Strong understanding of data structures and
+algorithms, enablingefficient problem-solving and optimized system performance
 
 ### 🛠️ Tech Stack & Tools
 
 **Back-End Development:**
-- **Languages:** C#, Python
+- **Languages:** C#
 - **Frameworks:** ASP.NET Core, Entity Framework Core
-- **Databases:** Microsoft SQL Server (T-SQL, Schema Design, Optimization)
-- **API Development:** RESTful APIs, Microservices Architecture
-- **Other:** LINQ, Dependency Injection, xUnit/NUnit
+- **Databases:** Microsoft SQL Server
+- **API Development:** RESTful APIs
+- **Other:** LINQ, Dependency Injection
 
 **DevOps & Tools:**
 - **Version Control:** Git, GitHub, GitFlow
@@ -30,12 +34,6 @@ I'm a passionate **Back-End Developer** specializing in building robust and scal
 
 ---
 
-### 🔭 What I'm Up To
-
-- 💼 I’m currently working as a **.NET Back-End Developer**.
-- 🌱 I’m deepening my knowledge in **Cloud-Native Applications (Azure/AWS)** and **Advanced Distributed Systems Design**.
-- 👯 I’m looking to collaborate on **open-source .NET projects** or any innovative back-end ideas.
-
 ### 💬 Ask Me About
 
 - Designing and building REST APIs with ASP.NET Core.
@@ -52,7 +50,7 @@ I can brew a mean cup of coffee ☕, which is the unofficial fuel of every devel
 ### 📫 How to Reach Me
 
 - **LinkedIn:** [Let's connect!](https://www.linkedin.com/in/your-profile/)
-- **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)
+- **Email:** [your.email@gmail.com](mailto:abdallah.elshenawy097@gmail.com)
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
