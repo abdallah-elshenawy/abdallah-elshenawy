@@ -1,7 +1,7 @@
 # Hello, I'm Abdallah Elshenawy! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-elshenawy-1107a2202/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallah.elshenawy.elshenawy097@gmail.com)
 
 Motivated and detail-oriented Software Developer with strong experience in C#, ASP.NET Core (Web API & MVC), and
 SQL Server. Skilled in building scalable, maintainable backend systems using Object-Oriented Programming, SOLID
@@ -17,11 +17,6 @@ algorithms, enablingefficient problem-solving and optimized system performance
 - **Databases:** Microsoft SQL Server
 - **API Development:** RESTful APIs
 - **Other:** LINQ, Dependency Injection
-
-**DevOps & Tools:**
-- **Version Control:** Git, GitHub, GitFlow
-- **Containerization:** Docker
-- **CI/CD:** GitHub Actions, Azure DevOps
 
 ---
 
