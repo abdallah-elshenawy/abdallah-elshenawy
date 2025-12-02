@@ -1,7 +1,7 @@
 # Hello, I'm Abdallah Elshenawy! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-elshenawy-1107a2202/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallah.elshenawy.elshenawy097@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallah.elshenawy097@gmail.com)
 
 Motivated and detail-oriented Software Developer with strong experience in C#, ASP.NET Core (Web API & MVC), and
 SQL Server. Skilled in building scalable, maintainable backend systems using Object-Oriented Programming, SOLID
@@ -16,16 +16,7 @@ algorithms, enablingefficient problem-solving and optimized system performance
 - **Frameworks:** ASP.NET Core, Entity Framework Core
 - **Databases:** Microsoft SQL Server
 - **API Development:** RESTful APIs
-- **Other:** LINQ, Dependency Injection
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallah-elshenawy&show_icons=true&theme=radical&hide_border=true" alt="Abdallah's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah-elshenawy&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+- **Other:** LINQ, Dependency Injection, Identity, Signalr, Automapper, Serilog, 
 
 ---
 
