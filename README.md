@@ -36,7 +36,7 @@ I can brew a mean cup of coffee ☕, which is the unofficial fuel of every devel
 ### 📫 How to Reach Me
 
 - **LinkedIn:** [Let's connect!](https://www.linkedin.com/in/abdallah-elshenawy-1107a2202/)
-- **Email:** [your.email@gmail.com](mailto:abdallah.elshenawy097@gmail.com)
+- **Email:** [Gmail](mailto:abdallah.elshenawy097@gmail.com)
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
