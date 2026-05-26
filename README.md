@@ -112,6 +112,6 @@
 
 *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=512BD4&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=abdallah-elshenawy&color=512BD4&style=flat-square)
 
 </div>
